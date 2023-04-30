@@ -38,13 +38,14 @@ body{
     padding: 10px;
 }
 
-.card h2 {
+.card h1 {
     padding: 15px;
+    font-size: 22px;
     color: hsl(218, 44%, 22%);
 }
 
 .card p {
-    padding: 0px 25px 35px 25px;
+    padding: 8px 25px 35px 25px;
     color: hsl(220, 15%, 55%);   
 }
 
